@@ -11,9 +11,13 @@ Après des années d’expérience dans le design de systèmes complexes, l’au
 
 ## Pattern Stratégiques
 
+La conception du logiciel. Dans une maison on dispose les murs.
+
 [Lien vers la partie stratégique](resources/strategic.md)
 
 
 ## Pattern Tactique
+
+La conception du code. Dans une maison on accroche une peinture sur un mur.
 
 [a link](https://github.com/tanguybernard/my-awsome-ddd/main/README.md)

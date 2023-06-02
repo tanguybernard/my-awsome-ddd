@@ -1,8 +1,9 @@
 # Event Storming
 
-Repris de cette article: 
+Repris de ces articles: 
 
-https://jordanchapuy.com/posts/2021/10/une-introduction-a-levent-storming/
+- https://jordanchapuy.com/posts/2021/10/une-introduction-a-levent-storming/
+- https://jordanchapuy.com/posts/2021/11/les-ingredients-d-un-event-storming-et-leurs-interactions/
 
 
 ## Introduction

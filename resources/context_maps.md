@@ -14,3 +14,5 @@ Peut-être en interrogeant la base de données ou en utilisant le code de l'appl
 Cela ressemble à un désastre... Bien sûr, nous devrions définir un protocole pour accéder à la passerelle. 
 
 C'est comme si quelqu'un vous demandait quelque chose et que vous lui donniez la possibilité de le faire d'une certaine manière et selon vos règles.
+
+Un  hote ouvert OH(S) ou context ouvert est un __contexte délimité__ qui fournit une API bien conçue, axée sur le domaine, destinée à être utilisée par de nombreux consommateurs et non adaptée à un consommateur spécifique.

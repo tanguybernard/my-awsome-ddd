@@ -11,7 +11,7 @@ Après des années d’expérience dans le design de systèmes complexes, l’au
 
 ## Pattern Stratégiques
 
-[a relative link](resources/strategic.md)
+[Lien vers la partie stratégique](resources/strategic.md)
 
 
 ## Pattern Tactique

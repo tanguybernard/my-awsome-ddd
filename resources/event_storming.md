@@ -1,5 +1,8 @@
 # Event Storming
 
+Repris de cette article: https://jordanchapuy.com/posts/2021/10/une-introduction-a-levent-storming/
+
+
 ## Introduction
 
 

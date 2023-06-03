@@ -13,6 +13,8 @@ La modélisation est la conception et l'utilisation d'un modèle.
 
 Le Domain Model est votre connaissance organisée et structurée du problème.
 
+L'Event Storming est une approche créée par Alberto Brandolini permettant de vous aider à modéliser votre domaine métier en équipe.
+
 ## Pattern Stratégiques
 
 La conception du logiciel. Dans une maison on dispose les murs.

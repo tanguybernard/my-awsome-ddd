@@ -1,6 +1,6 @@
 # Domain Driven Design (Conception pilotée par le domaine)
 
-## Contexte
+## Introduction
 
 Cette approche est né en 2003, lors de la publication du livre Domain-Driven Design: Tackling Complexity in the Heart of Software par Eric Evans.
 
@@ -8,6 +8,10 @@ Après des années d’expérience dans le design de systèmes complexes, l’au
 
 
 ## Modélisation
+
+La modélisation est la conception et l'utilisation d'un modèle. 
+
+Le Domain Model est votre connaissance organisée et structurée du problème.
 
 ## Pattern Stratégiques
 

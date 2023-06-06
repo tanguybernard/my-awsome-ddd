@@ -15,3 +15,9 @@ https://medium.com/nick-tune-tech-strategy-blog/consumer-driven-coupling-pattern
 Plein de schémas, Aggregate canvas intéressant :
 
 https://yoan-thirion.gitbook.io/knowledge-base/software-architecture/ddd-re-distilled
+
+
+Lexique
+
+Service-Oriented Architecture (SOA) 
+BC : Bounded context

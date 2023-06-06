@@ -1,5 +1,7 @@
 # Domain Driven Design (Conception pilotée par le domaine)
 
+# WORK IN PROGRESS
+
 ## Introduction
 
 Cette approche est né en 2003, lors de la publication du livre Domain-Driven Design: Tackling Complexity in the Heart of Software par Eric Evans.

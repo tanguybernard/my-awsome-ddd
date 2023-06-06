@@ -60,3 +60,5 @@ Exemple : MathML, iCalendar
 
 
 https://patryktrochowski.com/context-mapping/
+
+https://ilegra.com/blog/ddd-model-integrity-patterns/

@@ -27,8 +27,10 @@ Le changement dans un bounded contexte n'a pas d'influence sur d'autres.
 
 ### Conformist
 
-Modèle dans lequel les concepts d'un système en amont sont adaptés par un système en aval. 
+Dans cette relation, l'équipe en aval adopte le modèle et le langage omniprésent (ubiquitous language) de l'équipe en amont. 
 Lorsqu'une passerelle de paiement a trois étapes et une structure de données spécifique, vous la faites de manière similaire ou de la même manière dans votre système.
+
+Comme pour le partage d'un noyau, l'avantage de la conformité est de faciliter l'intégration en éliminant la complexité de la traduction entre des contextes limités, mais l'inconvénient est une fois de plus un couplage accru, puisque la dépendance vis-à-vis de l'amont est renforcée et que le système en aval est limité aux capacités du modèle en amont.
 
 ### OHS (Open Host Service)
 

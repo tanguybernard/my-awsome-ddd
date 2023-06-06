@@ -14,3 +14,11 @@ https://www.informit.com/articles/article.aspx?p=2020371&seqNum=3
 
 ### 3rd : Reference other aggregate by identity only
 ### 4th: Update other aggregate using eventual consitency
+
+
+## Aggregate Canvas (by Yoan Thirion)
+
+![aggregate_canvas](https://github.com/tanguybernard/my-awsome-ddd/assets/14818169/089d1301-6561-4d8e-81a3-5329938a4d29)
+
+
+source https://speakerdeck.com/thirion/ddd-re-distilled

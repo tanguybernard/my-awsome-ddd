@@ -31,21 +31,23 @@ Une règle de gestion invariante est une règle qui s'appliquera toujours, quell
 Dans ce cas, une politique corrective permet de s'assurer que le système sait comment réagir en cas de violation de la règle de gestion. Un exemple pourrait être une politique de surutilisation, qui facturerait des intérêts supplémentaires en plus des intérêts normaux. Ce n'est qu'un exemple parmi d'autres où les concepteurs de logiciels ont besoin de l'avis d'experts du domaine pour décider de la manière de gérer la violation des règles de gestion.
 
 
-## 4 règles de base
+## 4 règles de base (rules of thumb)
 
-### 1st rule of thumb: Model true invariants as consistency boundaries.
+### Modéliser les vrais invariants comme des limites de cohérence.
 
 True invariants are those business rules that are speaking of transactional consistency.
 
 Example: Video Game, Two Fighters, Fighter life point 0 and later die. IT's NOT TRUE INVARIANT. If Fighter life point go to 0, he die immediatly. THAT's TRUE INVARIANT.
 
-### 2nd Design small aggregate
+### Design small aggregate
 
 https://www.informit.com/articles/article.aspx?p=2020371&seqNum=3
 
-### 3rd : Reference other aggregate by identity only
+### Reference other aggregate by identity only
 
-### 4th: Update other aggregate using eventual consitency
+### Update other aggregate using eventual consitency
+
+Nous traitons chaque agrégat séparément. La cohérence éventuelle signifie qu'à un moment donné, notre système sera dans un état incohérent, mais qu'après un certain temps, il sera cohérent.
 
 
 ## Aggregate Canvas (by Yoan Thirion)
@@ -61,6 +63,8 @@ source https://speakerdeck.com/thirion/ddd-re-distilled
 https://domaincentric.net/blog/modelling-business-rules-invariants-vs-corrective-policies
 
 https://dev.to/jamesmh/what-are-aggregates-in-domain-driven-design-16nh
+
+https://www.kamilgrzybek.com/blog/posts/processing-multiple-aggregates-transactional-vs-eventual-consistency
 
 
 

@@ -4,6 +4,12 @@
 
 Un agrégat est une collection d'objets du domaine qui forment une frontière cohérente.
 
+## Invriant
+
+### True Invariants
+
+Les vrais invariants sont les règles de gestion qui parlent de cohérence transactionnelle. En d'autres termes, une règle qui n'a pas de sens d'être "vérifiée" plus tard. Cette "vérification" ou validation doit avoir lieu au moment où une opération est tentée.
+
 ## Invariant (Business Rules/Invariant) vs Règle de gestion
 
 La validation est le processus d'approbation d'un état donné de l'objet. 
@@ -24,6 +30,7 @@ Une règle de gestion invariante est une règle qui s'appliquera toujours, quell
 
 Dans ce cas, une politique corrective permet de s'assurer que le système sait comment réagir en cas de violation de la règle de gestion. Un exemple pourrait être une politique de surutilisation, qui facturerait des intérêts supplémentaires en plus des intérêts normaux. Ce n'est qu'un exemple parmi d'autres où les concepteurs de logiciels ont besoin de l'avis d'experts du domaine pour décider de la manière de gérer la violation des règles de gestion.
 
+
 ## 4 règles de base
 
 ### 1st rule of thumb: Model true invariants as consistency boundaries.
@@ -33,6 +40,7 @@ True invariants are those business rules that are speaking of transactional cons
 Example: Video Game, Two Fighters, Fighter life point 0 and later die. IT's NOT TRUE INVARIANT. If Fighter life point go to 0, he die immediatly. THAT's TRUE INVARIANT.
 
 ### 2nd Design small aggregate
+
 https://www.informit.com/articles/article.aspx?p=2020371&seqNum=3
 
 ### 3rd : Reference other aggregate by identity only
@@ -51,4 +59,8 @@ source https://speakerdeck.com/thirion/ddd-re-distilled
 ## Credits
 
 https://domaincentric.net/blog/modelling-business-rules-invariants-vs-corrective-policies
+
+https://dev.to/jamesmh/what-are-aggregates-in-domain-driven-design-16nh
+
+
 

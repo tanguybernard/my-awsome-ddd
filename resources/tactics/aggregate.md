@@ -66,5 +66,7 @@ https://dev.to/jamesmh/what-are-aggregates-in-domain-driven-design-16nh
 
 https://www.kamilgrzybek.com/blog/posts/processing-multiple-aggregates-transactional-vs-eventual-consistency
 
+https://www.youtube.com/watch?v=UEtmOW8uZZY
+
 
 

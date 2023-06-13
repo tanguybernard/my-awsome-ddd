@@ -28,4 +28,4 @@ La conception du logiciel. Dans une maison on dispose les murs.
 
 La conception du code. Dans une maison on accroche une peinture sur un mur.
 
-[a link](https://github.com/tanguybernard/my-awsome-ddd/blob/main/resources/tactic.md)
+[a link](https://github.com/tanguybernard/my-awsome-ddd/blob/main/resources/tactic/README.md)

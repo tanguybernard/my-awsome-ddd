@@ -35,3 +35,8 @@ Event sourcing
 https://medium.com/swlh/event-sourcing-as-a-ddd-pattern-fea6de35fcca
 
 https://medium.com/codeshake/cqrs-events-sourcing-avec-gcp-1-3-introduction-e5a62bbdae28
+
+
+Hexagonal
+
+https://vaadin.com/blog/ddd-part-3-domain-driven-design-and-the-hexagonal-architecture

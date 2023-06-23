@@ -23,6 +23,10 @@ La conception du logiciel. Dans une maison on dispose les murs.
 
 [Lien vers la partie stratégique](resources/strategic.md)
 
+## Credits
+
+https://www.linkedin.com/pulse/implementing-domain-driven-design-cheat-sheet-saeed-farahi-mohassel/
+
 
 ## Pattern Tactique
 

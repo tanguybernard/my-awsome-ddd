@@ -32,10 +32,10 @@ Lorsqu'une passerelle de paiement a trois étapes et une structure de données s
 
 Comme pour le partage d'un noyau, l'avantage de la conformité est de faciliter l'intégration en éliminant la complexité de la traduction entre des contextes limités, mais l'inconvénient est une fois de plus un couplage accru, puisque la dépendance vis-à-vis de l'amont est renforcée et que le système en aval est limité aux capacités du modèle en amont.
 
-### OHS (Open Host Service)
+### OHS (Open Host Service) - Service hôte (hébergement) ouvert
 
-L'OHS est un protocole qui permet à un système en aval de s'intégrer avec nous - un système en amont. 
-Il peut s'agir d'une API REST, d'une façade, d'un accès à un bus CQRS, de SOAP, etc.
+L'équipe qui fournit un service d'hébergement ouvert (OHS) se trouve généralement en amont, tandis que les clients qui l'utilisent sont des équipes en aval. Il peut s'agir d'une API REST, d'une façade, d'un accès à un bus CQRS, de SOAP, etc.
+Les équipes en aval sont libres d'être conformistes ou de construire des couches anti-corruption.
 
 Le mieux est de considérer ce type d'intégration comme un contrôleur Http ou une API REST. Il s'agit d'un point d'entrée dans notre système.
 
@@ -46,6 +46,11 @@ Cela ressemble à un désastre... Bien sûr, nous devrions définir un protocole
 C'est comme si quelqu'un vous demandait quelque chose et que vous lui donniez la possibilité de le faire d'une certaine manière et selon vos règles.
 
 Un  hote ouvert OH(S) ou context ouvert est un __contexte délimité__ qui fournit une API bien conçue, axée sur le domaine, destinée à être utilisée par de nombreux consommateurs et non adaptée à un consommateur spécifique.
+
+Pour éviter que les équipes en aval ne développent chacun un ACL, on peut exposer une version simplifiée du BC en amont en utilisant un langage publié (Published Language) via un service hôte ouvert (OHS).
+
+
+
 
 
 

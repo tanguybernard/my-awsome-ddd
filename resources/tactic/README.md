@@ -8,6 +8,12 @@
 
 ## Repository
 
+## Factory (WIP)
+
+Don’t use Domain Factories !
+
+https://svatasimara.medium.com/domain-driven-design-part-8-services-and-factories-4c0dec11fdc1
+
 
 ## Clean Architecture (Use Case centric)
 

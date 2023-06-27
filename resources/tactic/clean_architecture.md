@@ -2,7 +2,7 @@
 
 ## Introduction
 
-## Apllication
+## Application
 
 
 Le usecase implémente une intérface qui fournit un objet InputValues et si il y a un retour un OuputValues.

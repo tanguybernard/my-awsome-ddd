@@ -5,7 +5,7 @@
 ## Application
 
 
-Le usecase implémente une intérface qui fournit un objet InputValues et si il y a un retour un OuputValues.
+Le usecase implémente une interface qui fournit un objet InputValues et si il y a un retour un OuputValues.
 
     public interface UseCase<IntputValues, OutputValues> {
         public OutputValues execute(IntputValues values);

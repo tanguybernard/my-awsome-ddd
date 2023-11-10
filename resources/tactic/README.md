@@ -27,6 +27,11 @@ Utiliser un DTO pour passer des données entre le contrôleur et l'application s
 de maintenir une séparation claire entre les couches de l'application, d'éviter les dépendances indésirables 
 et de faciliter les évolutions futures de l'application.
 
+
+## Credits
+
+https://beetechnical.com/tech-tutorial/value-object-vs-entity-class/
+
 ## Credits
 
 Hexagonal

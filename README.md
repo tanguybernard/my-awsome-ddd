@@ -11,7 +11,7 @@ Après des années d’expérience dans le design de systèmes complexes, l’au
 
 ## Modélisation
 
-// --> La modélisation métier. Dans une maison, on dessine le plan, les pièces leurs fonctions. Une cuisine pour cuisiner.
+// --> La modélisation métier. Dans une maison, on dessine le plan, les pièces.
 
 La modélisation est la conception et l'utilisation d'un modèle. 
 

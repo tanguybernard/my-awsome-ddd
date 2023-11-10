@@ -11,7 +11,7 @@ Repris de ces articles:
 
 L'objectif est de cartographier la connaissance.
 
-Les signes pour déclencher un event storming: on a trop de bugs, on a des zones de floues, on veut s’aligner avec un existant, on veut cartographier de la connaissance.
+Les signes pour déclencher un event storming: on a trop de bugs, on a des zones de floues, on veut s’aligner avec un existant, on onboard de nouvelles personnes, on veut cartographier de la connaissance.
 
 
 ## Les éléments

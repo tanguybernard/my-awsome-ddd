@@ -11,6 +11,8 @@ Après des années d’expérience dans le design de systèmes complexes, l’au
 
 ## Modélisation
 
+// --> La modélisation métier. Dans une maison, on dessine le plan, les pièces leurs fonctions. Une cuisine pour cuisiner.
+
 La modélisation est la conception et l'utilisation d'un modèle. 
 
 Le Domain Model est votre connaissance organisée et structurée du problème.
@@ -19,7 +21,7 @@ L'Event Storming est une approche créée par Alberto Brandolini permettant de v
 
 ## Pattern Stratégiques
 
-La conception du logiciel. Dans une maison on dispose les murs.
+// --> La conception du logiciel. Dans une maison on dispose les murs.
 
 [Lien vers la partie stratégique](resources/strategic.md)
 
@@ -30,6 +32,6 @@ https://www.linkedin.com/pulse/implementing-domain-driven-design-cheat-sheet-sae
 
 ## Pattern Tactique
 
-La conception du code. Dans une maison on accroche une peinture sur un mur.
+// --> La conception du code. Dans une maison on accroche une peinture sur un mur.
 
 [a link](https://github.com/tanguybernard/my-awsome-ddd/blob/main/resources/tactic/README.md)

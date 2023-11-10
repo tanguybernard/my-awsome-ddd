@@ -19,6 +19,11 @@ Plein de schémas, Aggregate canvas intéressant :
 https://yoan-thirion.gitbook.io/knowledge-base/software-architecture/ddd-re-distilled
 
 
+A voir: DDD et C4 Model
+
+https://medium.com/nick-tune-tech-strategy-blog/domain-driven-architecture-diagrams-139a75acb578
+
+
 ## Lexique
 
 Service-Oriented Architecture (SOA) 

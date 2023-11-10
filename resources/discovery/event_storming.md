@@ -77,7 +77,7 @@ Très concrètement, il s’agit d’une grille de user stories, toutes disposé
 
 Event Storming est plus haut niveau.
 
-Ave le User Story Mapping, on se concentre sur l'affinement du backlog afin de fournir un produit fonctionnel à l'utilisateur.
+Avec le User Story Mapping, on se concentre sur l'affinement du backlog afin de fournir un produit fonctionnel à l'utilisateur.
 
 https://www.followtribes.io/user-story-mapping/
 

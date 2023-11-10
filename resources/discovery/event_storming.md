@@ -22,6 +22,8 @@ Les signes pour déclencher un event storming: on a trop de bugs, on a des zones
 Les événements sont décrits par un verbe au participe passé. « Facture générée », « Commande livrée ». 
 C’est quelque chose qui a eu lieu. C’est très important. On veut forcer les participants à penser avec des actions achevées, des changements d’état, des choses qui peuvent agir comme un déclencheur pour une autre action.
 
+NOTE: Une fois les evenements posés, quelqu'un peut faire un essai de storytelling, raconter le processus.
+
 ### Commands
 
 C’est ce qui déclenche un événement, souvent une conséquence d’une action utilisateur, une prise de décision, ou d’un système externe.
@@ -83,8 +85,14 @@ https://www.followtribes.io/user-story-mapping/
 
 https://www.easyagile.com/blog/the-ultimate-guide-to-user-story-maps/#:~:text=User%20story%20mapping%20vs%20event%20storming&text=Unlike%20user%20story%20mapping%2C%20which,in%20the%20product%20planning%20process.
 
-Credits:
+### Domain storytelling
+
+https://kalele.io/why-eventstorming-practitioners-should-try-domain-storytelling/#:~:text=EventStorming%20has%20similar%20purposes%2C%20and,and%20cooperate%20with%20each%20other.
+
+## Credits:
 
 https://jordanchapuy.com/posts/2021/10/une-introduction-a-levent-storming/
 
 https://blog.ippon.fr/2020/02/19/un-event-storming-avec-alberto-brandolini/
+
+https://pablopernot.fr/2019/07/event-storming-description/

@@ -1,5 +1,6 @@
 # Eventual consistency
 
+La cohérence éventuelle est une approche de conception visant à améliorer l'évolutivité et les performances, et les événements de domaine (Domain Events) peuvent contribuer à atteindre cet objectif en agissant comme un déclencheur transportant des informations de domaine
 
 ## CAP
 

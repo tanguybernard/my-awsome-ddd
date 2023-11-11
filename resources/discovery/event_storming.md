@@ -87,7 +87,18 @@ https://www.easyagile.com/blog/the-ultimate-guide-to-user-story-maps/#:~:text=Us
 
 ### Domain storytelling
 
-https://kalele.io/why-eventstorming-practitioners-should-try-domain-storytelling/#:~:text=EventStorming%20has%20similar%20purposes%2C%20and,and%20cooperate%20with%20each%20other.
+Domain Storytelling est une technique de modélisation collaborative qui met en évidence la façon dont les gens travaillent ensemble. Son objectif principal est de transformer la connaissance du domaine en logiciel d'entreprise. Cet objectif est atteint en réunissant des personnes d'horizons différents et en leur permettant d'apprendre les unes des autres en racontant et en visualisant des histoires.
+
+
+Preference au Domain Storytelling plutot que Event Storming :
+
+- Si nous voulons étudier comment les acteurs communiquent et coopèrent entre eux.
+- Si le domaine implique de nombreux acteurs (personnes ou logiciels).
+- Lorsque la culture d'entreprise est plus adaptée à une approche modérée et structurée qu'à l'approche de brainstorming d'EventStorming.
+
+https://domainstorytelling.org/
+
+https://kalele.io/why-eventstorming-practitioners-should-try-domain-storytelling/
 
 ## Credits:
 
@@ -96,3 +107,5 @@ https://jordanchapuy.com/posts/2021/10/une-introduction-a-levent-storming/
 https://blog.ippon.fr/2020/02/19/un-event-storming-avec-alberto-brandolini/
 
 https://pablopernot.fr/2019/07/event-storming-description/
+
+https://storystorming.com/

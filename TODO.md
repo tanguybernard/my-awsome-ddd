@@ -23,6 +23,7 @@ A voir: DDD et C4 Model
 
 https://medium.com/nick-tune-tech-strategy-blog/domain-driven-architecture-diagrams-139a75acb578
 
+Vertical slice architecture
 
 ## Lexique
 

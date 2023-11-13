@@ -48,6 +48,22 @@ Ce regroupement a du sens pour le métier. On préfèrera manipuler l’agrégat
 
 L’intérêt en faisant émerger les agrégats avant de se plonger dans le code va être de visualiser où ils se retrouvent, s’il n’y a pas trop d’événements ou commandes autour d’un même agrégat.
 
+
+## Déroulement
+
+Prendre 5 minutes (voir 10) pour que chaque participant crée dans son coin des évènements...
+
+Mise en commun sur la timeline.
+
+Puis ajout d'autres evenements en discutant les uns avec les autres.
+
+Session qui doit amener à ce qu'un maximum d'évènements soit disposer sur la timeline.
+
+Pas grave si les commandes, policy n'y sont pas.
+
+Trouver les evenements qui ont l'air les plus importants. Souvent evenements pivots.
+
+
 ## Le rendu
 
 On obtient de la visibilité. L’ensemble du processus, du système est rendu visible.

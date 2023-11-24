@@ -29,6 +29,10 @@ Wardely Map
 
 https://www.davesresearch.com/wardley-mapping/#:~:text=Wardley's%20strategy%20cycle%20is%20a,%2C%20Doctrine%2C%20and%20Leadership.)
 
+Team Topologies
+
+https://blog.avanscoperta.it/2021/04/22/about-team-topologies-and-context-mapping/
+
 ## Lexique
 
 Service-Oriented Architecture (SOA) 

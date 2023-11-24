@@ -53,9 +53,6 @@ Pour éviter que les équipes en aval ne développent chacun un ACL, on peut exp
 
 
 
-
-
-
 ### Published Language
 
 Exemple : MathML, iCalendar
@@ -65,6 +62,7 @@ Exemple : MathML, iCalendar
 
 ## Credits
 
+https://speakerdeck.com/mploed/systems-thinking-by-combining-team-topologies-with-context-maps
 
 https://patryktrochowski.com/context-mapping/
 

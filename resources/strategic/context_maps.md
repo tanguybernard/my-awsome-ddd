@@ -22,6 +22,8 @@ Le changement dans un bounded contexte n'a pas d'influence sur d'autres.
 
 ### Partnership
 
+The teams have a mutual dependency on each other for delivery.
+
 ### Shared Kernel
 
 

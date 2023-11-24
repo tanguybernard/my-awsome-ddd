@@ -1,0 +1,39 @@
+@startuml
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Context.puml
+' uncomment the following line and comment the first to use locally
+' !include C4_Context.puml
+
+LAYOUT_WITH_LEGEND()
+
+title System Context diagram for Internet Banking System
+
+Person(customer, "Customer", "A customer schedules a pickup")
+
+System(shipping, "Shipping/Expedition", "")
+System(droneManagement, "Drone Management", "")
+System(droneSharing, "Drone Sharing", "")
+System(userAccounts, "User accounts", "")
+System(invoicing, "Invoicing", "")
+
+System_Ext(thirdPartTransportation, "Third Part Transportation", "Schedule alternative transportation method")
+System_Ext(callCenter, "Call center", "")
+
+Rel(customer, userAccounts, "have")
+
+Rel(shipping, droneManagement, "D:U", "C/S : Shipping consume OHS Drone / Drone supply info about drone")
+Rel(shipping, userAccounts, "MD", "Need Information to transmit ETA, email")
+Rel(userAccounts, shipping, "MD", "Call to pickup package, address, weight")
+
+Rel(shipping, invoicing, "Transmit", "Give information")
+Rel(invoicing, userAccounts, "Emit", "Invoice")
+
+
+Rel(userAccounts, droneSharing, "Uses", "Rent a drone")
+Rel(userAccounts, callCenter, "Uses", "Call for help")
+Rel(shipping, thirdPartTransportation, "Uses", "Schedule alternative transportation methods if a package cannot be shipped entirely by drone.")
+
+Rel(droneSharing, droneManagement, "Uses", "Pick a drone to rent")
+
+Rel(droneSharing, invoicing, "Transmit", "Give info")
+
+@enduml

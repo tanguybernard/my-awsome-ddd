@@ -28,12 +28,12 @@ Rel(shipping, invoicing, "Transmit", "Give information")
 Rel(invoicing, userAccounts, "Emit", "Invoice")
 
 
-Rel(userAccounts, droneSharing, "Uses", "Rent a drone")
-Rel(userAccounts, callCenter, "Uses", "Call for help")
-Rel(shipping, thirdPartTransportation, "Uses", "Schedule alternative transportation methods if a package cannot be shipped entirely by drone.")
+Rel(userAccounts, droneSharing, "D: U", "Account ask (consume) Drone Sharing to rent drone")
+Rel(userAccounts, callCenter, "D:U", "User calls for help")
+Rel(shipping, thirdPartTransportation, "Free", "Separate way, ask for transport, return yes/no")
 
-Rel(droneSharing, droneManagement, "Uses", "Pick a drone to rent")
+Rel(droneSharing, droneManagement, "D: U", "Drone sharing conform to DroneManagement")
 
-Rel(droneSharing, invoicing, "Transmit", "Give info")
+Rel(droneSharing, invoicing, "Separate way", "")
 
 @enduml

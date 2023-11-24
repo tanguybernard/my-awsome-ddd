@@ -25,6 +25,10 @@ https://medium.com/nick-tune-tech-strategy-blog/domain-driven-architecture-diagr
 
 Vertical slice architecture
 
+Wardely Map
+
+https://www.davesresearch.com/wardley-mapping/#:~:text=Wardley's%20strategy%20cycle%20is%20a,%2C%20Doctrine%2C%20and%20Leadership.)
+
 ## Lexique
 
 Service-Oriented Architecture (SOA) 

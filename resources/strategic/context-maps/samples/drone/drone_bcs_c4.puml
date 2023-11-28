@@ -5,7 +5,7 @@
 
 LAYOUT_WITH_LEGEND()
 
-title System Context diagram for Internet Banking System
+title System Context diagram for Drone Shipping System
 
 Person(customer, "Customer", "A customer schedules a pickup")
 

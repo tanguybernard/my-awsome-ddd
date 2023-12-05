@@ -15,6 +15,8 @@ mindmap
       Architecture
         Hexagonal
         Vertical Slice
+          MediatoR
+          REPR pattern
         
     Tools
       Pen and paper

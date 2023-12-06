@@ -29,6 +29,10 @@ Wardely Map
 
 https://www.davesresearch.com/wardley-mapping/#:~:text=Wardley's%20strategy%20cycle%20is%20a,%2C%20Doctrine%2C%20and%20Leadership.)
 
+https://blog.octo.com/devriez-vous-lire-cet-article-sur-les-cartes-de-wardley
+
+https://fabulous-cruiser-75d.notion.site/b1a0c203775a432fbe4b9067a7a4e562?v=a304a4178925465ea39bf11990171276
+
 Team Topologies
 
 https://blog.avanscoperta.it/2021/04/22/about-team-topologies-and-context-mapping/

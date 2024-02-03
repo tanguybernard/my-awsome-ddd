@@ -26,9 +26,5 @@ mindmap
         Vertical Slice
           MediatoR
           REPR pattern
-        
-    Tools
-      Pen and paper
-      Mermaid
  
 ```

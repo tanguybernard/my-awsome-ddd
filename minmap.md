@@ -1,6 +1,15 @@
 ```mermaid
 mindmap
   root((ddd))
+    Discover
+      Event Storming
+      Example Mapping
+      Value Stream Mapping
+      User Story Mapping
+      Design Studio
+      Impact Mapping
+      Domain Storytelling
+      Event Modeling
     Strategic
       Bounded Context
         Problem / Solution

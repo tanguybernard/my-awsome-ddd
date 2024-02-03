@@ -29,6 +29,8 @@ L'Event Storming est une approche créée par Alberto Brandolini permettant de v
 
 https://www.linkedin.com/pulse/implementing-domain-driven-design-cheat-sheet-saeed-farahi-mohassel/
 
+https://ddd-practitioners.com/
+
 
 ## Pattern Tactique
 

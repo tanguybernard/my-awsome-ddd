@@ -23,6 +23,8 @@ mindmap
     Tactic
       Architecture
         Hexagonal
+        Onion
+        Clean Code
         Vertical Slice
           MediatoR
           REPR pattern

@@ -37,6 +37,10 @@ Team Topologies
 
 https://blog.avanscoperta.it/2021/04/22/about-team-topologies-and-context-mapping/
 
+Valid Domain Model
+
+https://enterprisecraftsmanship.com/posts/specification-pattern-always-valid-domain-model/
+
 ## Lexique
 
 Service-Oriented Architecture (SOA) 

@@ -11,7 +11,7 @@ Après des années d’expérience dans le design de systèmes complexes, l’au
 
 ## Modélisation
 
-// --> La modélisation métier. Dans une maison, on dessine le plan, les pièces.
+// --> La modélisation métier : Dans une maison, on dessine le plan, les pièces.
 
 La modélisation est la conception et l'utilisation d'un modèle. 
 
@@ -21,7 +21,7 @@ L'Event Storming est une approche créée par Alberto Brandolini permettant de v
 
 ## Pattern Stratégiques
 
-// --> La conception du logiciel. Dans une maison on dispose les murs.
+// --> La conception du logiciel : Dans une maison on dispose les murs.
 
 [Lien vers la partie stratégique](resources/strategic.md)
 
@@ -34,6 +34,6 @@ https://ddd-practitioners.com/
 
 ## Pattern Tactique
 
-// --> La conception du code. Dans une maison on accroche une peinture sur un mur.
+// --> La conception du code : Dans une maison on accroche une peinture sur un mur.
 
 [a link](https://github.com/tanguybernard/my-awsome-ddd/blob/main/resources/tactic/README.md)

@@ -72,6 +72,8 @@ On obtient de la compréhension. On peut avoir des prises de conscience comme �
 
 On obtient de l’alignement. On s’est mis d’accord tous ensemble sur le modèle, sur les problèmes. Continuons d’avancer ensemble.
 
+L'event storming peut aussi serivir pour l'onboarding des nouveaux développeurs PO...
+
 
 ## La suite
 

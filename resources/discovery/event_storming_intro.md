@@ -1,5 +1,11 @@
+# Event Storming
 
-## L'eventstorming
+## Domain Driven Design
+
+DEfinition
+
+
+## L'Event Storming
 
 Introduit en 2013 par Alberto Brandolini et hérité du DDD (Domain-Driven Design), l’EventStorming est un atelier de conception logicielle collaborative qui a pour objectifs de casser les silos entre les différents départements d’une organisation, d’aider les acteurs à converger vers une compréhension commune des processus métier, et d’exposer les éventuels incohérences en vue d’identifier des pistes d’amélioration.
 

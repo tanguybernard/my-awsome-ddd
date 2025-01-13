@@ -18,10 +18,14 @@ Plusieurs formats d’EventStorming existent en fonction de la finalité recherc
 - L’EventStorming comme format de rétrospective utilise la suite des événements comme support de __recherche d’opportunités__ ;
 - L’EventStorming comme outil d’apprentissage (__Onboarding__) aide les nouveaux arrivants à comprendre plus finement le système sur lequel ils vont travailler.
 
+## Pour qui ?
 
-Notes: Le composition du groupe de participants dépend de la finalité de l’atelier. Par exemple, un Big Picture EventStorming implique généralement un expert du domaine, un représentant de l’équipe de développement et, éventuellement, un architecte, alors que un Design Level EventStorming ne fait pas nécessairement appel à un expert du domaine.
+La composition du groupe de participants dépend de la finalité de l’atelier. Par exemple, un Big Picture EventStorming implique généralement un expert du domaine, un représentant de l’équipe de développement et, éventuellement, un architecte, alors que un Design Level EventStorming ne fait pas nécessairement appel à un expert du domaine.
 
 
 ## Credits
 
+https://draft.io/fr/example/eventstorming
+
 https://www.eventstormingjournal.com/foundations/how-to-ruin-an-event-storming-with-two-little-techie-mistakes/
+

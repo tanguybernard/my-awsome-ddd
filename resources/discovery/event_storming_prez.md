@@ -26,6 +26,36 @@ La composition du groupe de participants dépend de la finalité de l’atelier.
 
 C'est complémentaire. L'Event Storming permet de comprendre le domaine métier. Le Story Mapping permet de visualiser les besoins des utilisateurs et de planifier la livraison des fonctionnalités d’un produit.
 
+## Déroulement
+
+1. Introduire les évenements dans le système + tri
+2. Définir les commandes
+3. Les personas
+4. Les systèmes externes
+5. Les règles métiers (Lorsque ... alors ...)
+6. Read Model
+
+## Rendu
+
+On obtient de la visibilité. L’ensemble du processus, du système est rendu visible.
+
+On obtient de la compréhension. On peut avoir des prises de conscience comme “je ne pensais pas que je te créais des problèmes là-bas en faisant ça” ou “je ne savais pas que tu faisais ceci”. Les participants comprennent ce qu’il se passe chez eux et chez les autres, on casse les silos. On espere améliorer la collaboration.
+
+On obtient de l’alignement. On s’est mis d’accord tous ensemble sur le modèle, sur les problèmes. Continuons d’avancer ensemble.
+
+## La suite
+
+La suite est très modulable, tout comme l’est l’atelier. On peut imaginer un tas de choses pour travailler sur le processus :
+
+- Voter pour le problème principal, qui pourrait devenir la priorité numéro une.
+- Mettre en lumière les zones à améliorer, et travailler dessus avec le temps.
+- Identifier où il peut manquer des compétences.
+- Regarder le niveau de qualité dans les zones les plus importantes pour le métier.
+- Travailler sur les dépendances et goulots d’étranglement.
+- Simplifier le processus.
+
+
+
 ## Credits
 
 https://draft.io/fr/example/eventstorming

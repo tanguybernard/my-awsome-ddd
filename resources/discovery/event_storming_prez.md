@@ -22,6 +22,9 @@ Plusieurs formats d’EventStorming existent en fonction de la finalité recherc
 
 La composition du groupe de participants dépend de la finalité de l’atelier. Par exemple, un Big Picture EventStorming implique généralement un expert du domaine, un représentant de l’équipe de développement et, éventuellement, un architecte, alors que un Design Level EventStorming ne fait pas nécessairement appel à un expert du domaine.
 
+## Comparaison au Story Mapping
+
+C'est complémentaire. L'Event Storming permet de comprendre le domaine métier. Le Story Mapping permet de visualiser les besoins des utilisateurs et de planifier la livraison des fonctionnalités d’un produit.
 
 ## Credits
 

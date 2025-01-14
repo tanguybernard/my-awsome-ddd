@@ -35,6 +35,17 @@ C'est complémentaire. L'Event Storming permet de comprendre le domaine métier.
 5. Les règles métiers (Lorsque ... alors ...)
 6. Read Model
 
+
+
+![event_storming_ex](https://github.com/user-attachments/assets/2751eeb5-0102-4f22-864f-5478cbbd5f95)
+
+
+
+1. Une nouvelle commande est créée par un client.
+2. Lorsque le montant total dépasse 100 euros alors appliquer une remise sur la livraison.
+3. Appliquer une remise sur les frais de livraison :
+4. Mettre à jour la commande
+
 ## Rendu
 
 On obtient de la visibilité. L’ensemble du processus, du système est rendu visible.

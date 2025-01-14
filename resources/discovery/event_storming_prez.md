@@ -39,7 +39,7 @@ C'est complémentaire. L'Event Storming permet de comprendre le domaine métier.
 
 ![event_storming_ex](https://github.com/user-attachments/assets/2751eeb5-0102-4f22-864f-5478cbbd5f95)
 
-
+_source: https://jordanchapuy.com/posts/2021/11/les-ingredients-d-un-event-storming-et-leurs-interactions/_
 
 
 Autre exmple :

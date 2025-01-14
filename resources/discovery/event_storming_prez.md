@@ -41,6 +41,9 @@ C'est complémentaire. L'Event Storming permet de comprendre le domaine métier.
 
 
 
+
+Autre exmple :
+
 1. Une nouvelle commande est créée par un client.
 2. Lorsque le montant total dépasse 100 euros alors appliquer une remise sur la livraison.
 3. Appliquer une remise sur les frais de livraison :

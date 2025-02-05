@@ -12,6 +12,7 @@ Source: https://draft.io/fr/example/eventstorming
 Plusieurs formats d’EventStorming existent en fonction de la finalité recherchée :
 
 - Le __Big Picture__ EventStorming est idéal pour lancer un projet ;
+- __Process Modeling__ (La modélisation des processus) introduit plus de rigueur dans la modélisation, en appliquant une grammaire spécifique dans le cadre d'une approche de jeux collaboratifs, mais sans entrer dans l'arène de la conception de logiciels, permettant ainsi à la fois l'exploration et la conception de processus dans leur interprétation plus générique.
 - Le __Design Level__ EventStorming va jusqu’au détail de l’implémentation ;
 - Le __Value-Driven__ EventStorming est une façon de cartographier la chaîne de valeur, en utilisant le storytelling d’événements comme base de la réflexion ;
 - L’__UX-Driven__ EventStorming se concentre sur le trajet utilisateur avec pour objectif d’offrir une expérience optimale ;
@@ -75,4 +76,6 @@ La suite est très modulable, tout comme l’est l’atelier. On peut imaginer u
 https://draft.io/fr/example/eventstorming
 
 https://www.eventstormingjournal.com/foundations/how-to-ruin-an-event-storming-with-two-little-techie-mistakes/
+
+https://medium.com/@ziobrando/collaborative-process-modelling-with-eventstorming-17ed363650c0
 
